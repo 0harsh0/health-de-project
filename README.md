@@ -1,4 +1,4 @@
-# CareSync Health Network — Metadata-Driven Data Platform on Azure &amp; Databricks
+# Health Network — Metadata-Driven Data Platform on Azure &amp; Databricks
 
 An end-to-end, metadata-driven data engineering project for a multi-hospital
 healthcare network. It ingests relational data from an internal hospital
