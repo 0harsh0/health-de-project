@@ -69,8 +69,7 @@ PySpark · PostgreSQL · GitHub
 ## Author
 
 <p align="center">
-  <img src="assets/narender-photo.png" width="110" alt="Narender Kumar"><br>
-  <strong>Narender Kumar</strong>
+  <strong>Harsh Pratap Singh</strong>
 </p>
 
 <p align="center">
